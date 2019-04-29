@@ -24,5 +24,5 @@ MIT
 * for PXT/microbit
 (The metadata above is needed for package search.)
 ```package
-NFC=github:wxzed/pxt-NFCUART
+NFC=github:DFRobot/pxt-NFCUART
 ```
