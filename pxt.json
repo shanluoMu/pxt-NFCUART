@@ -1,0 +1,20 @@
+{
+    "name": "NFC",
+    "version": "1.0.0",
+    "description": "",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "README.md",
+        "NFC.ts",
+        "NFC.cpp",
+        "_locales/zh-cn/NFC-strings.json",
+        "_locales/zh-tw/NFC-strings.json"
+    ],
+    "testFiles": [],
+    "public": true,
+    "installedVersion": "workspace:153470b9-71ac-4186-2429-a20cb2602760"
+}
